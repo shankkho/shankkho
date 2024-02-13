@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shankkho" alt="shankkho" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
-
-- 🌱 I’m currently learning **Java**
+- currently learning **js, React js,Node js,express js, manjoDB**
 
 - 💬 Ask me about **Java,HTML,CSS**
 
-- 📫 How to reach me **shashankkhobragade37@gmail.com**
+- 📫 How to reach me **shanshankkhobragade@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **Trying to write a thinking in form of code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
